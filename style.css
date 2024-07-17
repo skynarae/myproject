@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #f0f8ff;
 }
 
 header {
-    background: #333;
+    background: #01b0f5;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -47,7 +47,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background: #555;
+    background: #007f7f;
 }
 
 .section {
@@ -75,27 +75,27 @@ h2 {
     height: 150px;
     border-radius: 50%;
     object-fit: cover;
-    border: 5px solid #333;
+    border: 5px solid #00050f;
 }
 
 section#about {
-    background: #f4f4f4;
+    background: #e0f7fa;
 }
 
 section#skills {
-    background: #e2e2e2;
+    background: #b2ebf2;
 }
 
 section#prosects {
-    background: #ccc;
+    background: #80deea;
 }
 
 section#contact {
-    background: #aaa;
+    background: #69cbf1;
 }
 
 footer {
-    background: #333;
+    background: #01b0f5;
     color: #fff;
     text-align: center;
     padding: 10px 0;
