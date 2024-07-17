@@ -50,6 +50,10 @@ nav ul li a:hover {
     background: #007f7f;
 }
 
+section ul {
+    list-style: none;
+}
+
 .section {
     padding: 80px 0;
     margin-top: 60px;
